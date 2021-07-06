@@ -1,2 +1,2 @@
 # firsttime
-trying to learn github
+learning GCP
